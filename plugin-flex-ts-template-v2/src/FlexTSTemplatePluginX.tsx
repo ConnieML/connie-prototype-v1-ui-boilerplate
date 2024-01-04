@@ -21,6 +21,5 @@ export default class FlexTSTemplatePlugin extends FlexPlugin {
     initFeatures(flex, manager);
     flex.MainHeader.defaultProps.logoUrl="https://i.postimg.cc/7ZPsMhyH/connie-contact-rtc-logo-tm.png";
     manager.strings.NoTasks = 'There are no active tasks Hooray!';
-    manager.strings.TaskHeaderLine = '{{task.queueName}}';
   }
 }

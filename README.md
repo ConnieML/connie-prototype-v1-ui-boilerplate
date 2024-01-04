@@ -1,6 +1,6 @@
-# Twilio Flex Project Template
+# Connie RTC Boilerplate Prototype V1.5
 
-The _Flex Project Template_ is a starting point for Flex solutions of any size. It provides a methodology for managing all the key assets of a Twilio Flex solution:
+The _Connie Boilerplate_ is a starting point for deploying an instance of the Connie digital communication platform for non-profitsd  solutions of any size. It provides a methodology for managing all the key assets of a Twilio Flex solution:
 
 - It can be used for large projects or simple standalone features
 - Many of the most common features requested by Flex customers [are already packaged in the template](https://twilio-professional-services.github.io/flex-project-template/feature-library/overview)
